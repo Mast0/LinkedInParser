@@ -1,0 +1,6 @@
+﻿Aspose.Zip=24.4.0
+DotNetEnv=3.0.0
+Newtonsoft.Json=13.0.3
+Selenium.Support=4.20.0
+Selenium.WebDriver=4.20.0
+Selenium.WebDriver.ChromeDriver=124.0.6367.15500
